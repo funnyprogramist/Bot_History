@@ -71,12 +71,12 @@ public class SimpleBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return "https://t.me/Bot_madeBy_stepBy_step_bot";
+        return "name: Bot_madeBy_stepBy_step_bot";
     }
 
     @Override
     public String getBotToken() {
-        return "7731161490:AAGW99_ZM93bgRLDQHsgoEl5NS2eNLdvl_M";
+        return "No_Token!";
     }
 }
 
